@@ -80,31 +80,6 @@ Figures are approximate and should be confirmed against the final refreshed Powe
 
 The detailed connection notes and business insights document are available in `documentation/` and `pdf/`.
 
-## Repository structure
-
-```text
-northwind-business-analysis/
-├── README.md
-├── powerbi/
-│   └── Northwind_Analysis.pbix
-├── presentation/
-│   ├── Northwind_CEO_Presentation.pptx
-│   ├── Northwind_CEO_Presentation.pdf
-│   └── Northwind_CEO_Presenter_Notes.docx
-├── pdf/
-│   └── Northwind_Business_Insights_and_Recommendations.pdf
-├── screenshots/
-│   ├── executive-dashboard.png
-│   ├── sales-analysis.png
-│   ├── product-performance.png
-│   ├── customer-analysis.png
-│   ├── employee-sales-performance.png
-│   └── shipping-operations.png
-└── documentation/
-    ├── NORTHWIND_CAPSTONE_PROJECT_DOCUMENTATION.docx
-    ├── Northwind_Business_Insights_and_Recommendations.docx
-    └── Techie_Academy_Capstone_Project_Brief.pdf
-```
 
 ## How to use the project
 
@@ -121,7 +96,6 @@ northwind-business-analysis/
 - Revenue is not the same as profit; the provided visuals do not establish product profit margins.
 - Shipment timing is based on recorded shipped and required dates, not actual delivery-arrival timestamps.
 - The available data does not prove the causes of sales peaks, product discontinuation, customer retention risk, or shipping delays.
-- The supplied project package does **not** include `Northwind.db` or a separate PDF export of the Power BI report. Add these only if you have the files and permission to redistribute them.
 
 ## Author
 
