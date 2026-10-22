@@ -83,11 +83,10 @@ The detailed connection notes and business insights document are available in `d
 
 ## How to use the project
 
-1. Download `powerbi/Northwind_Analysis.pbix`.
+1. Download `Northwind_Analysis.pbix`.
 2. Open it in Microsoft Power BI Desktop.
-3. If Power BI prompts for a data source or refresh, configure the required source connection on your machine. The source `Northwind.db` file was not included among the files provided for this repository package.
-4. Use the page tabs to explore the six report sections.
-5. Review the CEO presentation and supporting documentation for the analysis, interpretation notes, and recommendations.
+3. Use the page tabs to explore the six report sections.
+4. Review the CEO presentation and supporting documentation for the analysis, interpretation notes, and recommendations.
 
 ## Data and interpretation notes
 
